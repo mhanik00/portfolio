@@ -53,7 +53,7 @@ header
     padding: 5px 15px;
     background-image: linear-gradient(to right, #FF4690, #FF1E76);
 }
-.image{
+.image img {
     display: block;
     height: 500px;
     width: 504px;
